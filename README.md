@@ -1,6 +1,6 @@
 # TheMedicalMuseum
 This repository contains a Unity 3D mobile application for iOS and Andriod devices called "The Medical Museum". It has been built and tested using the Google Cardboard Platform.
-
+![screen shot 2018-02-09 at 4 08 11 pm](https://user-images.githubusercontent.com/35173600/36050215-a69e1320-0db3-11e8-9afa-204c6f31f832.png)
 ## Application Description
 "The Medical Museum" is a one level scene designed to be a virtual museum. The user can move around the museum to read about the new ideas and practices Virtual Reality plans to bring to the medical industry. The application uses a GroudRaycasting mechanic movement for the user to move around the room by looking towards the floor and pressing the clicker on the Google Cardboard Platform. This scene includes 3D models. videos and audio sources; so keep your sound on your mobile device on to learn something new visually and audibly!
 
@@ -18,6 +18,7 @@ In order to download and build application you must:
 
 ## How to play
 The instructions to play the application "The Medical Museum" (instructions are also displayed on start panel for application):
+![screen shot 2018-02-09 at 4 08 36 pm](https://user-images.githubusercontent.com/35173600/36050232-bb2b652c-0db3-11e8-8e4a-81b7dcad63a0.png)
 <br />
 <br /> • Read the start panel and press the "Check In" button to start the experience.
 <br />
