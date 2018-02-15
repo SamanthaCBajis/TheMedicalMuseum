@@ -18,9 +18,9 @@ To build and run a copy of this application to your mobile device:
 <br />
 <br /> • On the **_The Medical Museum_** repository, go to the green "Clone or download" button and click "Download Zip"
 <br />
-<br /> • Once the zip file has loaded onto your desktop, double click the zip file to open. Navigate to the folder Assets > ChristmasMaze.unity and double click the scene to open it in Unity 3D
+<br /> • Once the zip file has loaded onto your desktop, double click the zip file to open. Navigate to the folder Assets > The Night at the Museum.unity and double click the scene to open it in Unity 3D
 <br />
-<br /> -NOTE! The scene may not be located at the top of the folder. If not, you will have to scroll through the folder to find it. It will be titled exactly ChristmasMaze.unity with the Unity logo-
+<br /> -NOTE! The scene may not be located at the top of the folder. If not, you will have to scroll through the folder to find it. It will be titled exactly The Night at the Museum.unity with the Unity logo-
 <br />
 <br /> After opening the scene in Unity 3D choose to build to either an iOS or Android mobile device
 <br />
