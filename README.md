@@ -45,7 +45,7 @@ The instructions to play the application **_The Medical Museum_**: (instructions
 <br />
 <br /> • You can move by looking towards the ground until you see the purple cylinder. Then, use the Cardboard clicker to click and move anywhere you would like through the meseum
 <br />
-<br /> • There are several displays and the user can go up to any exhibit to learn something new VR is planning to bring to change the medical industry.
+<br /> • There are several displays and the user can go up to any exhibit to learn something new VR is planning to bring to change the medical industry
 <br />
 
 # Authors
