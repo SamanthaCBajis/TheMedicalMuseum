@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{51661D63-25C6-7B62-6CAF-88BE987D56B6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GoogleVR/Scripts/EventSystem/InputModule/GvrPointerInputModuleImpl.cs">
+    <Files>
+      <File FileName="Assets/GoogleVR/Scripts/EventSystem/InputModule/GvrPointerInputModuleImpl.cs" Line="207" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Night_220at_220the_220Museum_220Project_221 PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
